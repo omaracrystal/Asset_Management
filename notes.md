@@ -7,10 +7,11 @@
 > get rid of extra characters, comments, white space, shorting variable names, removing console.log etc
 
 ### Obfuscation
-> Makes code a little harder to read by making it a little harder to read.
+> Makes code a little harder to read by adding extra characters or replacing characters.
 
 ### Transpilation
 >
+
 
 ### Source Maps
 > a tool that can relate between original code vs minified/ transpiled code. when debugging.
